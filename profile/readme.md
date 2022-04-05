@@ -1,3 +1,5 @@
-# .github
+## Hey, this is gamelearn 👋
 
-Gamelearn public organization profile
+<p align="center">
+  <img width="300" alt="gamelearn logo" src="/assets/gamelearn_logo.jpg">
+</p>
